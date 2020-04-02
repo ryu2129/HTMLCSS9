@@ -13,6 +13,7 @@ a {
   display: block;
   clear: both;
 }
+
 header, nav,h2.main-visual, footer {
   font-family: Chalkduster,"Brandley Hand",Courier,"Segoe Print",sans-serif;
 }
